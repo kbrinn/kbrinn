@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Kevin Brinneman and I am a Control Systems Engineer with an interest in Software Engineering and Aritifical Intelligence.
+- 👋 Hi, I’m Kevin Brinneman, a Control Systems Engineer with a hobby in Software Development and Deep Learning.
 - 👀 I’m interested in Deep Learning, Backend Engineering & Microservices Patterns.
-- 🌱 I’m currently learning Boot Spring, Kafka, AWS & Deep Reinforcement Learning. 
-- 💞️ I’m looking to collaborate on projects that combine Deep Learning and Microservices for high availability and resilience.
+- 🌱 I’m currently learning Boot Spring, Kafka, AWS & Deep Reinforcement Learning and am always looking for new ways to integrate these technologies into Industry 4.0.
 - 📫 Reach me at: https://www.linkedin.com/in/kevin-brinneman/
-
-<!---
-kbrinn/kbrinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 My programming languages are: Python 3.x & Java SE 8+.
+- ❤️ Find some of my projects here in GitHub. 
